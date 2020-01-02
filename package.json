@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {    
+"firebase": "^7.6.1",
+    
 "react-router-dom": "^5.1.2",
     
 "node-sass": "^4.13.0",
