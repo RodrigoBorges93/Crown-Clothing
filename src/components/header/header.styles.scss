@@ -5,6 +5,12 @@
   justify-content: space-between;
   margin-bottom: 25px;
 
+  .logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
   .logo-container {
     height: 100%;
     width: 70px;
